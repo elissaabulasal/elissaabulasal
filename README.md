@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **elissaabulasal/elissaabulasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -20,4 +19,3 @@ I’m Elissa, a Computer Science graduate from Beirut Arab University (BAU) with
 ---
 [![](https://visitcount.itsvg.in/api?id=elissaabulasal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
