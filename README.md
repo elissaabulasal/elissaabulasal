@@ -1,5 +1,5 @@
 # Hello, I'm Elissa ✨
-💻 I design & build websites + apps<br>🎓 Computer Science Graduate @ BAU<br>🚀 Turning ideas into interfaces<br>🕸️ @website.weaver
+💻 I design & build websites + apps<br>🎓 Computer Science Graduate at BAU<br>🚀 Turning ideas into interfaces<br>🕸️ @website.weaver
 
 
 ## 🌐 Socials:
